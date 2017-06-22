@@ -1,21 +1,16 @@
-# jay
+#  Vue_HSapp
+> 一个使用Vue练习的项目
+>炉石评分系统构建
+>soket.io搭建聊天室
 
-> A Vue.js project
-
-## Build Setup
+## 开始安装
 
 ``` bash
-# install dependencies
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 开发环境部署
 npm run dev
 
-# build for production with minification
+# 生产环境部署
 npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
