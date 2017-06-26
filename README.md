@@ -14,3 +14,6 @@ npm run dev
 
 # 生产环境部署
 npm run build
+```
+#### 界面
+![](https://github.com/ResJay/HealthyManAndComic/blob/master/QQ%E6%88%AA%E5%9B%BE20170626092059.png?raw=true)
