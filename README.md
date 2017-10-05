@@ -16,4 +16,4 @@ npm run dev
 npm run build
 ```
 #### 界面
-![](https://github.com/ResJay/HealthyManAndComic/blob/master/QQ%E6%88%AA%E5%9B%BE20170626092059.png?raw=true)
+![](https://github.com/ResJay/_myJavaSrcipt/blob/master/GIF.gif?raw=true)
