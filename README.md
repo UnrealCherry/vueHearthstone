@@ -9,7 +9,8 @@
 
 ``` bash
 # 安装依赖
-npm install
+cnpm install
+cnpm install connect
 
 # 开发环境部署
 npm run dev
